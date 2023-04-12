@@ -1,4 +1,8 @@
-# Dashboard_SuperSet_interactions_of_two_services
+Project name        |	  Дашборд      |
+:---                |---        |
+**Description**     |   необходимо понимать как пользователи пользуются нашими сервисами ("Лента новостей" и "Мессенджер")      |
+**Target**          |   создать простой дашборд в котором будет видно, как пользователи взаимодействуют с нашими приложениями        |
+**Stack**           |  :heavy_check_mark: **ClickHouse** </br> :heavy_check_mark: **SuperSet**         |
 
-
+--- 
 ![Взаимодействие двух сервисов - ленты и сообщений](https://user-images.githubusercontent.com/110673529/231429726-97c6881f-1f0e-473d-b1b1-bcb67e8ef018.png)
